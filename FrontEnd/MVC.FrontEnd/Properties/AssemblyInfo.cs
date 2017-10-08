@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("OMEGAPersonal")]
+[assembly: AssemblyTitle("MVC.FrontEnd")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("OMEGAPersonal")]
+[assembly: AssemblyProduct("MVC.FrontEnd")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b9b30925-4316-4814-bc05-b03957f46b87")]
+[assembly: Guid("82864d15-3023-4d0c-b722-2f1a6d9c166f")]
 
 // Version information for an assembly consists of the following four values:
 //
